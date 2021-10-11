@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Funcionalidade Dark Mode 🌒 and Light Mode 💡</a>
+    <a href="https://github.com/Fernanda1701/DOMproject">Funcionalidade Dark Mode 🌒 and Light Mode 💡</a>
 </h1>
 <p align="center">Manipulando a DOM com JavaScript</p>
 
